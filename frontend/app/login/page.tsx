@@ -93,12 +93,6 @@ export default function LoginPage() {
                         </button>
                     </form>
 
-                    {/* Test Credentials */}
-                    <div className="mt-6 p-4 bg-gray-50 rounded-lg border border-gray-200">
-                        <p className="text-xs font-semibold text-gray-700 mb-2">Test Credentials:</p>
-                        <p className="text-xs text-gray-600">Email: test@example.com</p>
-                        <p className="text-xs text-gray-600">Password: password123</p>
-                    </div>
 
                     {/* Back to Home */}
                     <div className="mt-6 text-center">
